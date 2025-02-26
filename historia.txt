@@ -36,3 +36,9 @@ git reset --soft HEAD~1
 git add .
 git commit -m "Se incluye github y poker scrum en el proceso de gestión de la configuración y sus plantillas adaptadas"
 git tag Rev3
+$ git remote add origin https://github.com/AdanMaronasCalvelo/Ej_individual_ENSO
+git push -u origin master
+git push origin --tags
+git add .
+git commit -m "Actualizar historia en el directoiro remoto"
+git push origin master
