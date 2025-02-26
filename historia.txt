@@ -27,3 +27,6 @@ git branch -d Mejoras
 git log
 git add .
 git commit -m "Actualizar log.txt con el paso 9"
+git add .
+git commit -m "Eliminación de las sugerencis de cambio"
+git tag Rev2
