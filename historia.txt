@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "Commit inicial: Crear estructura de directorios, cargar primera versión del control de cmabios y crear archivos para la historia y el log"
+git tag Rev1
