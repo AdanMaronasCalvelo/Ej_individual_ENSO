@@ -4,4 +4,8 @@ git commit -m "Commit inicial: Crear estructura de directorios, cargar primera v
 git tag Rev1
 git checkout master
 git add .
-git commit -m "Pequeño cambio en main"
+git comité -m "Pequeño cambio en main"
+git branch Mekoras
+git checkout Mejoras
+git add .
+git commit "Mejoras propuestas en la revisión por pares"
