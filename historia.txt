@@ -5,10 +5,19 @@ git tag Rev1
 git checkout master
 git add .
 git comité -m "Pequeño cambio en main"
-git branch Mekoras
+git branch Mejoras
 git checkout Mejoras
 git add .
 git commit "Mejoras propuestas en la revisión por pares"
 git log
 git add .
 git commit "Actualizar log"
+git checkout Mejoras
+git rebase master
+git add historia.txt
+git checkout --ours Procesos/controlDeCambios/DP_ControldeCambios_Grupo07.doc
+git add Procesos/controlDeCambios/DP_ControldeCambios_Grupo07.doc
+git rebase --continue
+git log
+git add .
+git commit -m "Actualizar log y historia con comandos del rebase"
