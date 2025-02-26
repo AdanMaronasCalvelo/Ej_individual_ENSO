@@ -1,0 +1,13 @@
+Paso 6
+------------------------------------------------------------------------------------------------------------------------------------------------
+commit 5985a35c2017f0468f0cc50e2435498a93d48d85 (HEAD -> Mejoras)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:49:19 2025 +0100
+
+    Mejoras propuestas en la revisión por pares
+
+commit 3fbc3e41326abb12dfa190c5df13c3359970fdde (tag: Rev1, master)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 10:50:46 2025 +0100
+
+    Commit inicial: Crear estructura de directorios, cargar primera versión del control de cambios y crear archivos para la historia y el log

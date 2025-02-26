@@ -9,3 +9,6 @@ git branch Mekoras
 git checkout Mejoras
 git add .
 git commit "Mejoras propuestas en la revisión por pares"
+git log
+git add .
+git commit "Actualizar log"
