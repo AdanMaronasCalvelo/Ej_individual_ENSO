@@ -42,3 +42,9 @@ git push origin --tags
 git add .
 git commit -m "Actualizar historia en el directoiro remoto"
 git push origin master
+git pull origin master
+git diff origin/master -- historia.txt
+git log
+git add .
+git commit -m "Actualización log.txt"
+git push origin master

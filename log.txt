@@ -12,6 +12,7 @@ Date:   Wed Feb 26 10:50:46 2025 +0100
 
     Commit inicial: Crear estructura de directorios, cargar primera versión del control de cambios y crear archivos para la historia y el log
 
+
 Paso 8
 ------------------------------------------------------------------------------------------------------------------------------------------------
 commit fd84a2f44b83132161003915495395e386799b01 (HEAD -> Mejoras)
@@ -70,4 +71,62 @@ Author: Adan <adan.maronas@rai.usc.es>
 Date:   Wed Feb 26 10:50:46 2025 +0100
 
     Commit inicial: Crear estructura de directorios, cargar primera versión del control de cambios y crear archivos para la historia y el log
+
+
+Paso 8
+------------------------------------------------------------------------------------------------------------------------------------------------
+commit d9bf6ac127a0f9de2d0bc3547742ae6ef5196b0e (HEAD -> master, origin/master)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 20:13:04 2025 +0100
+
+    Actualizar historia en el directoiro remoto
+
+commit 8f81b705cc934cf4b446dc833af89d2238d9ec6f (tag: Rev3)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 16:47:27 2025 +0100
+
+    Se incluye github y poker scrum en el proceso de gestión de la configuración y sus plantillas adaptadas
+
+commit b6aa3c92cf321fae58e3cb76e6b2915fabfc004a (tag: Rev2)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 16:39:05 2025 +0100
+
+    Eliminación de las sugerencias de cambio
+
+commit 261db5e6933e0ea66f37e5a483cbe7ee72f46f80
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 16:31:31 2025 +0100
+
+    Actualizar log.txt con el paso 9
+
+commit 2b9a067dd9ab3b6a15d5da4068edc72891a76949
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 16:23:40 2025 +0100
+
+    Actualizar log y historia con comandos del rebase
+
+commit fd84a2f44b83132161003915495395e386799b01
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:53:16 2025 +0100
+
+    Actualizar log
+
+commit a966b92f3154fcf86203bc0811e97f14c8fc3643
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:49:19 2025 +0100
+
+    Mejoras propuestas en la revisión por pares
+
+commit 0ffe7c5ce013856acb397837f73ed5093736ab3e
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:56:47 2025 +0100
+
+    Pequeño cambio en main
+
+commit 3fbc3e41326abb12dfa190c5df13c3359970fdde (tag: Rev1)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 10:50:46 2025 +0100
+
+    Commit inicial: Crear estructura de directorios, cargar primera versión del control de cambios y crear archivos para la historia y el log
+
 
