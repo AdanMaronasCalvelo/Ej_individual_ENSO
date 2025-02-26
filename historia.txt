@@ -30,3 +30,9 @@ git commit -m "Actualizar log.txt con el paso 9"
 git add .
 git commit -m "Eliminación de las sugerencis de cambio"
 git tag Rev2
+git add .
+git commit -m "Se incluye github y poker scrum en el proceso de gestión de la configuración"
+git reset --soft HEAD~1
+git add .
+git commit -m "Se incluye github y poker scrum en el proceso de gestión de la configuración y sus plantillas adaptadas"
+git tag Rev3
