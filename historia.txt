@@ -48,3 +48,8 @@ git log
 git add .
 git commit -m "Actualización log.txt"
 git push origin master
+git branch Entrega-final
+git checkout Entrega-final
+git add .
+git commit -m "Actualizar historia con creación rama final"
+git push -u origin Entrega-final
