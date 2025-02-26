@@ -37,3 +37,37 @@ Author: Adan <adan.maronas@rai.usc.es>
 Date:   Wed Feb 26 10:50:46 2025 +0100
 
     Commit inicial: Crear estructura de directorios, cargar primera versión del control de cambios y crear archivos para la historia y el log
+
+
+Paso 8
+------------------------------------------------------------------------------------------------------------------------------------------------
+commit 2b9a067dd9ab3b6a15d5da4068edc72891a76949 (HEAD -> master)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 16:23:40 2025 +0100
+
+    Actualizar log y historia con comandos del rebase
+
+commit fd84a2f44b83132161003915495395e386799b01
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:53:16 2025 +0100
+
+    Actualizar log
+
+commit a966b92f3154fcf86203bc0811e97f14c8fc3643
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:49:19 2025 +0100
+
+    Mejoras propuestas en la revisión por pares
+
+commit 0ffe7c5ce013856acb397837f73ed5093736ab3e
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 15:56:47 2025 +0100
+
+    Pequeño cambio en main
+
+commit 3fbc3e41326abb12dfa190c5df13c3359970fdde (tag: Rev1)
+Author: Adan <adan.maronas@rai.usc.es>
+Date:   Wed Feb 26 10:50:46 2025 +0100
+
+    Commit inicial: Crear estructura de directorios, cargar primera versión del control de cambios y crear archivos para la historia y el log
+

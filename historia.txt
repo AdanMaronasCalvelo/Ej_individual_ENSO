@@ -21,3 +21,9 @@ git rebase --continue
 git log
 git add .
 git commit -m "Actualizar log y historia con comandos del rebase"
+git checkout master
+git merge Mejoras
+git branch -d Mejoras
+git log
+git add .
+git commit -m "Actualizar log.txt con el paso 9"
